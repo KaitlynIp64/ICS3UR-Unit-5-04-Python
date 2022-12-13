@@ -15,7 +15,6 @@ def calculate_volume(radius: int, height: int) -> float:
 
 def main():
     # input
-    print("This program calculates the volume of a cylinder.")
     str_radius = input("Enter the radius of the cylinder (cm): ")
     str_height = input("Enter the height of the cylinder (cm): ")
 
